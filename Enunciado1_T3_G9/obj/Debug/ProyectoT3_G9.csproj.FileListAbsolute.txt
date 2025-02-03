@@ -1,0 +1,12 @@
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\bin\Debug\Enunciado1_T3_G9.exe.config
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\bin\Debug\Enunciado1_T3_G9.exe
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\bin\Debug\Enunciado1_T3_G9.pdb
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\obj\Debug\ProyectoT3_G9.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\obj\Debug\Enunciado1_T3_G9.INICIO.resources
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\obj\Debug\Enunciado1_T3_G9.Properties.Resources.resources
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\obj\Debug\Enunciado1_T3_G9.Proyecto1.resources
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\obj\Debug\Enunciado1_T3_G9.Proyecto2.resources
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\obj\Debug\ProyectoT3_G9.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\obj\Debug\ProyectoT3_G9.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\obj\Debug\Enunciado1_T3_G9.exe
+C:\Users\franc\source\repos\Enunciado1_T3_G9\Enunciado1_T3_G9\obj\Debug\Enunciado1_T3_G9.pdb
